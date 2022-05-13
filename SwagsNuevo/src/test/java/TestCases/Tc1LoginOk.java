@@ -8,7 +8,7 @@ import CentaJava.Core.Reports;
 import Repositories.Repo_Template;
 import pasos.Login;
 
- 
+//Modificado
 public class Tc1LoginOk {
 	WebDriver driver;
 
